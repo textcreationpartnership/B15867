@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant history of the life and death of Will Summers And how hee came first to be knowne at the court, and how he came up to London, and by what meanes hee got to be King Henry the eights iester. With the entertainment that his cozen Patch, Cardinall Wolsey's foole, gave him at his Lords house, and how the hogs-heads of gold were known by this meanes, and were seized on at his seller in old Fish-street.</title>
+         </titleStmt>
+         <extent>Approx. 63KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15867</idno><idno type="EEBO-CITATION">99841751</idno>
+  <idno type="VID">176908</idno>
+  <idno type="EEBO-PROQUEST">2240908777</idno>
+  <idno type="STC">STC 22917.5</idno>
+  <idno type="STC">ESTC S106026</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99841751e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 718:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant history of the life and death of Will Summers And how hee came first to be knowne at the court, and how he came up to London, and by what meanes hee got to be King Henry the eights iester. With the entertainment that his cozen Patch, Cardinall Wolsey's foole, gave him at his Lords house, and how the hogs-heads of gold were known by this meanes, and were seized on at his seller in old Fish-street.</title>
+               </titleStmt>
+               <extent>[76] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. Okes and are to be sold by F. Grove and T. Lambart,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1637.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: The life and death of Will Summers.</note>
+                  <note>Woodcut illustrations throughout.</note>
+                  <note>Identified as STC 23434a on UMI microfilm reel 718.</note>
+                  <note>Signatures: A (-A8) B-E (-E8).</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Sommers, William, d. 1560.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176908:1"/>
+            <p>A pleasant History Of the Life and Death of <hi>Will Summers.</hi>
+            </p>
+            <p>And how hee came first to be knowne at the Court, and how he came up to London, and by what meanes hee got to be King <hi>Henry</hi> the eights <hi>Iester.</hi>
+            </p>
+            <p>With the entertainment that his cozen <hi>Patch,</hi> Cardinall <hi>Wolsey's</hi> foole, gave him at his Lords house, and how the hogs-heads of gold were known by this meanes, and were seized on at his seller in old Fish-street.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>I. Okes</hi> and are to be sold by <hi>F. Grove</hi> and <hi>T. Lambart.</hi> 1637.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176908:2"/>
+            <pb facs="tcp:176908:2"/>
+            <head>The Life of <hi>Will Summers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Proverb tells us, <hi>Stultorum plena sunt omnia; <hi>All places are full of fooles.</hi>
+               </hi> There is <hi>Solomons</hi> Foole, <hi>He that despiseth wisedome and know<g ref="char:EOLhyphen"/>ledge:</hi> there is St. <hi>Gregories</hi> foole, <hi>Who is busie in other mens matters, and carelesse and negligent of his owne:</hi> there is <hi>Democritus</hi> his foole, <hi>Who onely doateth upon things absent, and what is present, de<g ref="char:EOLhyphen"/>spiseth, though much more com<g ref="char:EOLhyphen"/>modious and beneficiall than things past. Socrates</hi> hath his rich foole, whom hee calleth <hi>A golden slave:</hi>
+               <pb facs="tcp:176908:3"/> Cicero's <hi>foole,</hi> who can neither en<g ref="char:EOLhyphen"/>dure things present, nor prevent what is to come: <hi>There is</hi> Dionisius <hi>his foole,</hi> who beareth himselfe arro<g ref="char:EOLhyphen"/>gantly to the humble, and submis<g ref="char:EOLhyphen"/>sively to the proud: <hi>There is</hi> Pa<g ref="char:EOLhyphen"/>chimerus <hi>his foole,</hi> who in serious things sports, and in trifles and toyes is serious. Aristotles <hi>foole,</hi> who hath not sence to distinguish good from bad. <hi>There is</hi> Crates <hi>his foole,</hi> who in prosperity is drunke, in adversity mad. <hi>There is</hi> Sene<g ref="char:EOLhyphen"/>ca's <hi>foole,</hi> who alwayes is but begin<g ref="char:EOLhyphen"/>ning to live, and feeds his fancies with new hopes even in the extremity of his age. <hi>There is</hi> Procopius <hi>his foole,</hi> that considereth not in the be<g ref="char:EOLhyphen"/>ginning what the end may be, but repenteth himselfe in the middest, <hi>&amp; so of the rest.</hi>
+            </p>
+            <p>Now as there are divers sorts of fooles, so there are sundry kinds of folly; as dulnesse, blockishnes, stupidity, folly, fatuity, &amp;c. That which we call <hi>Stultitia,</hi> or foolish<g ref="char:EOLhyphen"/>nesse,
+<pb facs="tcp:176908:3"/> imports an obtusenesse or dulnesse of the spirituall sences: that which we call <hi>Fatuity,</hi> or <hi>I<g ref="char:EOLhyphen"/>deotisme,</hi> implyes a privation of all: the rest wee admit as inter<g ref="char:EOLhyphen"/>mediates, and participating of both; there is also a sencelesse and braine-sick stupidity, that hath al<g ref="char:EOLhyphen"/>liance to the rest, of which I will give you some few historicall in<g ref="char:EOLhyphen"/>stances.</p>
+            <p>The <hi>Thracians</hi> were generally held to be so blockish, that they could not tell to five; and being upon a time refractory to their Ge<g ref="char:EOLhyphen"/>nerall, and refusing to be guided and governed by him, bee caused an infinite company of Ladders to be made, at which they wondring, demanded the cause thereof, who told them againe, that since they were rebellious to his command, he purposed to set one of those Lad<g ref="char:EOLhyphen"/>ders on the top of another, and fa<g ref="char:EOLhyphen"/>sten them end to end, by which he purposed to climbe up to Heaven,
+<pb facs="tcp:176908:4"/> and complaine to <hi>Juno</hi> of their late disobedience, with which answer being terrified, they wholly sub<g ref="char:EOLhyphen"/>mitted themselves, and never af<g ref="char:EOLhyphen"/>ter dared to mutine against him.</p>
+            <p>The <hi>Arcadians</hi> were also of such stupidity, that as <hi>Erasmus</hi> in his Proverbs reports, they refused to entertaine any Musick (how sweet soever) into their Citties; in which they also interdicted the profession of all Liberall Arts and Sciences. As absurd things wee read of the <hi>Lesbians:</hi> The <hi>Atheni<g ref="char:EOLhyphen"/>ans</hi> at the first erecting of their Ci<g ref="char:EOLhyphen"/>ty, the <hi>Abderitae,</hi> and others.</p>
+            <p>
+               <hi>Xerxes</hi> also, King of the <hi>Persi<g ref="char:EOLhyphen"/>ans,</hi> because he was defeated by the <hi>Greekes</hi> in a great Sea-battaile, caused the <hi>Hellespont</hi> to be beaten with many stripes: he sent also an Epistle to the Mountaine <hi>Athos,</hi> which lifteth up his head into the clouds, to this purpose: <hi>Doe not thou oh mighty <hi>Athos,</hi> yeel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me, to<g ref="char:EOLhyphen"/>wards my vast buildings, stones too
+<pb facs="tcp:176908:4"/> great and intractable, lest in my fu<g ref="char:EOLhyphen"/>ry I caused thee to be digged downe, and precipitate thee into the Ocean.</hi> The like imputation of madnesse, or folly, hath beene put upon the two warlike nations of the <hi>Greeks</hi> and the <hi>Trojans,</hi> to spend the lives of so many brave Kings, Princes, Commanders, and Souldiers, the one in detaining the other of one lascivious and inconstant prosti<g ref="char:EOLhyphen"/>tute.</p>
+            <p>Folly is the poverty of the mind, and amongst fooles, hee is held to be the greatest foole, that know<g ref="char:EOLhyphen"/>eth little, and would seeme to understand much. A faire and a beautifull person, saith <hi>Diogenes,</hi> that is defective in his sences, is like a gorgeous house inhabited with a bad Tenant. The foole wanteth much, and were he pos<g ref="char:EOLhyphen"/>sest of all things, yet did hee not know how to use any of them; for the more rich a foole is, the more foolish he is. A simple or igno<g ref="char:EOLhyphen"/>rant
+<pb facs="tcp:176908:5"/> person may be knowne by three things; he cannot rule him<g ref="char:EOLhyphen"/>selfe, because he lacketh reason; he cannot resist his passions, because he wanteth wit; neither can hee act that which he would doe, be<g ref="char:EOLhyphen"/>cause he is in bondage to folly; for where there is no capacity or ap<g ref="char:EOLhyphen"/>prehension, all perswasion or in<g ref="char:EOLhyphen"/>struction is in vaine. It is better to be unborne, than unknowing; for want of understanding is the roote of all misfortune; neither is ignorance ever truely knowne to be ignorance, till it be matched with knowledge. <hi>Vnicum est bo<g ref="char:EOLhyphen"/>num scientia, &amp; malum unicum est ignorantia:</hi> that is, <hi>The onely good is knowledge, and the onely evill is ignorance.</hi> In adversity it is a blessing, in prosperity a scorne; it hath the boldest face, and cowardliest ex<g ref="char:EOLhyphen"/>pression, and is no better than the meere franzy of the minde: but as vessels are knowne by their
+<pb facs="tcp:176908:5"/> sound whether they be whole or broken, so men are found by their speech and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ehaviour, whether they be wise or foolish: and as the wisedome of wise men conti<g ref="char:EOLhyphen"/>nuaily augmenteth; so the stupi<g ref="char:EOLhyphen"/>dity of the foolish evermore in<g ref="char:EOLhyphen"/>creaseth. Some be fooles by na<g ref="char:EOLhyphen"/>ture, such as we call meere Natu<g ref="char:EOLhyphen"/>ralls, or Ideots: others be cun<g ref="char:EOLhyphen"/>ning and crafty fooles, who when they cannot thrive by their wise<g ref="char:EOLhyphen"/>dome, seeke to live by their folly; and such an one, it may be imagi<g ref="char:EOLhyphen"/>ned, was this <hi>Will Summers,</hi> of whom is our present Argument: for as some things proceeding from him savoured of a meere brainlesse stupidity; so other things againe expressed in him a<g ref="char:EOLunhyphen"/>wary acute and ingenious capa<g ref="char:EOLhyphen"/>city; so that hee might be imagi<g ref="char:EOLhyphen"/>ned to be a mixture of two met<g ref="char:EOLhyphen"/>tals, or a compound of foole and knave, in which word I no way taxe his honesty, but rather intend
+<pb facs="tcp:176908:6"/> in it his crafty simplicity.</p>
+            <p>I shall not neede to stand long to discourse upon his birth brée<g ref="char:EOLhyphen"/>ding, and parents: onely I will deliver unto you some pleasant passages of his in the Countrey, before he came to bee a Courtier: onely he was of a low stature, of a pleasant countenance, and of a nimble body and gesture, and had a good mother-wit in him, as the story hereafter will shew.</p>
+            <p>
+               <hi>Will Summers</hi> passing by chance where hee heard a poore Millar begging an almes of a Baker, and desired to give him something for the alliance that was betwixt their two trades: <hi>Summers</hi> asked the Millar, how many farmers had beene customers to his mill, who answered him, seaven or eight, and that he onely ground all their corne: to whom he replyed againe: Baker it is pitty to give this fellow any thing: for I finde by him hee is more foole than
+<pb facs="tcp:176908:6"/> knave; for if there had beene any wit in him at all, he would have undone all these Farmers before himselfe would have beene forc't thus to goe a begging.</p>
+            <p>When his mother went to bu<g ref="char:EOLhyphen"/>riall, he following the Hearse, stretcht out his voyce, and sung as loud as he was able, for which his father reproving him, he made answer and said, Father you are the greatest foole of the two; for the Priest and Clerke will not sing for her, unlesse you hire them with mony, and you see I am content to doe it of free-cost▪</p>
+            <p>Comming with a friend or companion of his into a victualing-house, they call'd for egges, which when they had eaten, and satisfi<g ref="char:EOLhyphen"/>ed the Hostesse, <hi>Will Summers</hi> made haste to bee gone, and his partner could not make him stay any longer by any meanes: but be<g ref="char:EOLhyphen"/>ing some distance from the house, his friend asked him what was
+<pb facs="tcp:176908:7"/> the reason he made such speed thence▪ marry, saith he because my Hostesse should not call mee to
+<figure/> question for an after reckoning; for in one of mine egges there was a whole Chicken, and I supt
+<pb facs="tcp:176908:7"/> it off at one mouthfull, and never paid for it.</p>
+            <p>In their way home it hapned, <hi>Will Summers,</hi> having his bundle at his backe, and straining him<g ref="char:EOLhyphen"/>selfe with taking too large a stride, let fly a great scape from behinde, which the other hearing, sayd unto him, now out upon thee for a beastly foole, what hast thou done? who answered him againe, thou must needes excuse me; and further I can assure thee, if my Tails could have borrowed thy tongue to have made use of, it would have beene talking long agoe.</p>
+            <p>Vpon a time being walking in the middle of Summer, and the Sun shining very hot upon him, insomuch that he swet againe, loo<g ref="char:EOLhyphen"/>king up to the Elements, he sayd, now if thou bee'st a God, Sunne take in thy beames, and keepe them in till next winter, and if you will afford me them then, I
+<pb facs="tcp:176908:8"/> shall be much beholding unto thee.</p>
+            <p>Another time <hi>Will Summers</hi> and his Horse having crost a river in a
+<figure/> Ferry-boate, and being very fearefull upon the water, he sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke never a word till hee had got safe
+<pb facs="tcp:176908:8"/> over, and then sitting himselfe downe upon the farther shore, and fetching a great sigh, he sayd, now what a blockish and sencelesse foole am I, for if I had béene drown'd in the river, how miserably would my father have beaten me?</p>
+            <p>Vpon a time being in place where a deboist gallant came in, whose onely talke was of his Gen<g ref="char:EOLhyphen"/>try, and from what a noble house he was descended, <hi>Will Summers</hi> séeing him so brave in words, and poore in habite, said unto him, what a coyle is heere with talking of Gentry and Nobility? I doe not think but if the truth were known, our Millers horse is the better gentleman of the two; for you shal never sée him goe abroad without a man to waite upon him.</p>
+            <p>Another time a Miller having a<g ref="char:EOLhyphen"/>bused him, hee told him, that hee thought there was nothing that he could imagine, was more valiant than the coller of a Millers shirt:
+<pb facs="tcp:176908:9"/> who asking him what reason hée had to thinke so? made present an<g ref="char:EOLhyphen"/>swer, marry because every mor<g ref="char:EOLhyphen"/>ning it hath a theefe by the neck.</p>
+            <p>Vpon a time being very sicke &amp; weake by reason of a Feaver that had long troubled him, a neigh<g ref="char:EOLhyphen"/>bour comming to give him some wholesome ghostly counsell▪ bad him be of good comfort, and told him, that if he were taken out of this vaine transitory world, hée should bee immediately taken up, and carried up into Paradise: who answered him that he was glad of that with all his heart: for if the way to Paradise were any part of it up the hill, he was never able to travell thither on foot, his legges were so weake and so feeble.</p>
+            <p>On a time <hi>Will Summers</hi> wan<g ref="char:EOLhyphen"/>ting money, and having neither money nor credit, knew not what to doe: at length bethinking with himselfe how to get some coyne, it being Summer time, he goes into
+<pb facs="tcp:176908:9"/> a hollow tree, and there gets a great deale of the powder or dust of the tree, and laps it up in little pa<g ref="char:EOLhyphen"/>pers like to Tobacco, and rides unto a Towne where hee was not knowne; and it being a market-day, opened a box which he had be<g ref="char:EOLhyphen"/>fore him, wherein were all these papers full of this powder, and there with a loud voice cryes out, buy a Tormentor for Fleas, buy a tormentor of Fleas: the people at that season being much troubled with fleas, bought every one two penny worth, and asked him how they should use it: Thus said hee; strow it on the sheets before you goe to bed, and I will warrant you, it will torment and kill them all. So in a short space <hi>Will Sum<g ref="char:EOLhyphen"/>mers</hi> had sold all, and had got store of money, and went away merrily to his fathers house. So the next market-day following, he wanting more money, went againe with more of the same powder, and
+<pb facs="tcp:176908:10"/> tooke money enough; and some of those which had formerly bought the powder of him, told him that it did no good, but rather distur<g ref="char:EOLhyphen"/>bed them of their sléeps, nor did it kill the Fleas: Then sayd <hi>Will Summers,</hi> you did not as I told you; yes indeed, we did strow it in the bed: Ey but said <hi>Will Summers,</hi> you should have had a little sticke in one hand, and with the other hand have caught them by the nap of the necke, and so have thrust it downe their throats, and that will so torment them, that they will never trouble you againe. So they bought more of the same powder, and went home, and thanked him heartily, without a<g ref="char:EOLhyphen"/>ny suspicion of his knavery and de<g ref="char:EOLhyphen"/>ceit therein.</p>
+            <p>Above all things, <hi>Will Summers</hi> could not endure the lye, and if any man told him that hee ly'd, he would be sure to strike him with
+<pb facs="tcp:176908:10"/> the next thing that came into his hand. It so happened, that hee telling a Tale according to his fashion, one that stood by, and heard him, sayd unto him, Nay that (<hi>William</hi>) I hold to bee an arrant lye, at which he growing to a pelting chafe, snatcht up a good cudgell, and came towards him, holding it over his head, and asked him why hee gave him the lye? the other knowing his sud<g ref="char:EOLhyphen"/>dennesse, and that he was but a word and a blow, deny'd his words, and sayd, he sayd no such thing: Ey but said hee, thou didst; but said the other, I did not: hée still urg'd it, and the other de<g ref="char:EOLhyphen"/>ny'd it so long, that at length he brake out, and sayd, thou lyest in thy throate, and in thy guts, to say that I offered to give thee the lye, at which word he flung away his cudgell, and sayd, that word hath given me satisfacti<g ref="char:EOLhyphen"/>on: It was well that thou didst not
+<pb facs="tcp:176908:11"/> say I ly'd, for if thou hadst, I would not have left beating thee whilst thou hadst had one whole bone in thy skinne.</p>
+            <p>To one that had two children at one birth, <hi>Will Summers</hi> came and told him, that hee had the most honest and faithfullest wife of any man that was in the whole parish, he demanding where<g ref="char:EOLhyphen"/>in? wherein saith hée? why she hath brought thée two children at once, and hath given them both unto thee; when, if she had not beene iust and honest, shee might have conceal'd the one of them▪ and kept it to her selfe.</p>
+            <p>His Father upon a time sent him unto the Horse-market with a Nagge to sell, now when hée came to the place where the chap<g ref="char:EOLhyphen"/>men resorted, and every one rid his horse to and fro, to make them the more credible, he tyed his horse in a corner, and sate him downe close by him: At length
+<pb facs="tcp:176908:11"/> one spying the Nagge, and seeing him to be a very like beast, and thinking him to be the seller, be<g ref="char:EOLhyphen"/>cause he sate so neare him, hee as<g ref="char:EOLhyphen"/>ked him what businesse hee had there? who answered, I cannot tell; hee asked him whose horse that was? hee answered, his that would buy him: sayd the other, Thou canst not sell him by sitting here; then (answered he) I will keepe him, and carry him away: hee asked him if he were sound of winde and limbe, sure if he were, reply'd hee againe, I thinke my Father is not such a foole as to part with▪ him. The chap<g ref="char:EOLhyphen"/>man perceiving his simplicity, i<g ref="char:EOLhyphen"/>magined it to bee free from all deceit and cunning, bargained for him, and bought him.</p>
+            <p>Hee being easing his body▪ and close at his businesse, one that knew him passing by, call'd to him, and sayd aloud, Well said <hi>Will,</hi> I see thou art doing that
+<pb facs="tcp:176908:12"/> which no man can do for thee: who answerd, I do not desire it, for I am old enough to doe it for myselfe: The other replyed, Indeed it is that which no body can be without; to whom (having made an end of what he was doing, &amp; rising with<g ref="char:EOLhyphen"/>all) he said, Nay that is not so, for I can be without it now, and if you like it you may take it for your la<g ref="char:EOLhyphen"/>bour.</p>
+            <p>His Father sending him into the Countrey upon some businesse, be<g ref="char:EOLhyphen"/>ing benighted by the way, he light upon a Cottage, whereby much in<g ref="char:EOLhyphen"/>treaty he got shelter; but the house affoording no spare bed, hee was forc't to make shift and lye in an out house where was a Hay▪ loft: Now the man having a Cow that had newly calved, had laid it there for warmth sake, in which <hi>Will</hi> laid himselfe close by it, not percei<g ref="char:EOLhyphen"/>ving that any such thing was there. In the night hee had a terrible dreame, for hee thought hee had a
+<pb facs="tcp:176908:12"/> great swelling in his belly, which troubled him very sore, and that in the end he was delivered of a Calfe: Now at the breake of day wa<g ref="char:EOLhyphen"/>king, and finding the young Calfe so neare him, presently apprehen<g ref="char:EOLhyphen"/>ded that his dreame was true, and fearing lest it would come to light, he presently got up, and taking his supposed birth in his armes, cast it into a ditch, and drowned it, run<g ref="char:EOLhyphen"/>ning away homeward as fast as his legges were able to carry him.</p>
+            <p>His Father not being well, sent him with his Vrine to have some Counsaile from the Doctor, who knocking at his doore, and the Physitian opening unto him, hee presented him the Vrinall, who, as he tooke it from his hand, asked him withal from whence he came? to whom he made answer, I hope your Worship is wise enough to finde that in the Water.</p>
+            <p>Being asked by one, why a dog,
+<pb facs="tcp:176908:13"/> when he made water still lifted up his legge? he answered. For man<g ref="char:EOLhyphen"/>ners sake, and lest hee should be<g ref="char:EOLhyphen"/>pisse his stockings.</p>
+            <p>Vpon a time being where hee wanted a bed, and for necessities sake, was forc't to lye all the night on the bare boards, where he tooke very bad rest, tossing and tum<g ref="char:EOLhyphen"/>bling from one side to another, by reason of his hard lodging; when rousing himselfe in the morning, &amp; complaining of an ach in his bones, and casting his eye downe upon the flowre, and spying a feather on the ground, on which he percei<g ref="char:EOLhyphen"/>ved hee had laine all that night; fetching a great sigh, he said▪ Now alas, how much doe I pitty rich men, what rest can they take lying upon such variety, and choyse of feather-beds? when I having but one poore feather under me, have beene thus miserably tormen<g ref="char:EOLhyphen"/>ted.</p>
+            <p>Many and almost infinite were
+<pb facs="tcp:176908:13"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Iests which past from him in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Countrey for stupid and flm<g ref="char:EOLhyphen"/>ple, others witty and wise, inso<g ref="char:EOLhyphen"/>much, it could not be easily ghest to which his constitution was most inclined: but alwaies hee abhorred all nastinesse: keeping himselfe very handsome and cleanly; inso<g ref="char:EOLhyphen"/>much, that from the Countrey his fame spread as farre as the Court, and came to the eare of the King, who sent for him to see and talk with him.</p>
+            <p>Divers are the demeanours and dispositions of those which we call fooles and ideots; some are of a sullen and dogged nature, others of a merry and pleasant humour: one in rainy weather will bee full of sport and laughter: if you aske him why? he will tell you then, when the raine is over, there will come faire weather, and reioyce to thinke upon it: &amp; when the raine is over, &amp; faire weather comes, he will be sad and drooping; demand the
+<pb facs="tcp:176908:14"/> cause, that when y<seg rend="sup">e</seg> faire weather is over, the foule will come againe: I have knowne another of such a con<g ref="char:EOLhyphen"/>tradictory spirit, that whatsoever you intreated him to doe, he would he dogged and deny it; but that you warn him to forbeare, y<seg rend="sup">t</seg> he would do, though he were sure to be sound<g ref="char:EOLhyphen"/>ly disciplind for his paines; but this <hi>Will Summers</hi> was of an easie na<g ref="char:EOLhyphen"/>ture, &amp; tractable disposition, who af<g ref="char:EOLhyphen"/>ter he had found the fashions of the Court, and tride y<seg rend="sup">e</seg> humour of the K. complide so well with both, that he gained not onely great grace and favour from his Maiesty, but a ge<g ref="char:EOLhyphen"/>nerall love from the Nobility: for he was no carry-tale, nor whispe<g ref="char:EOLhyphen"/>rer, nor flattering insinuater, to breed discord and dissention, but an honest plaine downe-right, that would speake home without halting, &amp; tell the truth of purpose to shame the divel, so that his plain<g ref="char:EOLhyphen"/>nesse mixt with a kinde of faceti<g ref="char:EOLhyphen"/>ousnes, &amp; tartnes with pleasantnes,
+<pb facs="tcp:176908:14"/> made him very acceptable into the <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mpanies of all men. I told you he was sent for to the
+<figure/> Court; and comming up to <hi>London</hi> with his cloathes at his back▪ &amp; pas<g ref="char:EOLhyphen"/>sing through one of the Innes of
+<pb facs="tcp:176908:15"/> Court in the height of the Terme, hee observed a great company of gentlemen in their gownes, and demanded of one that was with him, of what calling or profession they were, who told him they were Lawyers: Lawyers, saith he? indeede; for their sakes I am sorry for the whole City: Why? replyed the other, marry, saith he, because we have but one Lawyer in the shiere where I live, and he hath undone the whole Countrey; now they having so many here, I am greatly affraid, that in short space they will undoe the whole City.</p>
+            <p>Well to the Court hee was brought, and had admittance into the presence of the King, but what conference they had together, is beyond mee, in regard that I was not then present: and to dis<g ref="char:EOLhyphen"/>cerne the King the better, he put on a paire of Spectacles; and being, asked the reason, said, Hee could
+<pb facs="tcp:176908:15"/> see every common man with his eyes, but to see the King he would put them on. But some say, that
+<figure/> hee asked him how many legges a Mutton had? who answered him two: againe he askt him, how hee
+<pb facs="tcp:176908:16"/> could make that good? he replyed that he had heard in the Countrey, how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sheepe had foure legges, but being kild, and then call▪d a mut<g ref="char:EOLhyphen"/>ton, it had onely two legges, and two shoulders. He next deman<g ref="char:EOLhyphen"/>ded of him, (he being a foole) whe<g ref="char:EOLhyphen"/>ther he were capable to inherit any land? who answered him againe, that hee thought he might: The King demanded his reason? mar<g ref="char:EOLhyphen"/>ry saith hee, my Father being a wise man, begat me a foole; now why may not I (being a foole) be<g ref="char:EOLhyphen"/>get a wise childe to inherite my land, if I had any: with such and the like questions the King made tryall of him, and presently enter<g ref="char:EOLhyphen"/>tain'd him both into his grace and livery, and now who but <hi>Will Summers</hi> the Kings foole? who had got such an interest in him by rea<g ref="char:EOLhyphen"/>son of his quick &amp; facetious Iests, that he could have admittance into his Maiesties chamber, and have his eare, when a great noble man,
+<pb facs="tcp:176908:16"/> nay, a privy Counceller could not bee suffered to speake with him: and further, if the King were an<g ref="char:EOLhyphen"/>gry, or displeased with any thing if no man else durst demand the cause of his discontent, then was <hi>Will Summers</hi> provided with one pleasant conceit or another, to take off the edge of his displeasure: but from the generall, I come to some particulars of his Iests, or merry conceits.</p>
+            <p>The King upon a time riding upon his progresse with his No<g ref="char:EOLhyphen"/>bles, and the Cardinall <hi>Wolsey,</hi> past by a place, where (it seemeth) hee had a Mistresse, which <hi>Will Summers</hi> well knew, the King being disposed to be merry, asked him if he could rime? Rime my Liege saith he? that I can, for I have in me much more Rime than Reason: Then replyed he againe, looke up towards that Turret, and answer to me in rime what I shall tell thee, and began thus:</p>
+            <lg>
+               <pb facs="tcp:176908:17"/>
+               <l>Within yon Tower</l>
+               <l>There is a flower,</l>
+               <l>That hath my heart.</l>
+            </lg>
+            <p>To whom <hi>Will Summers</hi> instant<g ref="char:EOLhyphen"/>ly reply'd,</p>
+            <lg>
+               <l>Within this hower</l>
+               <l>She pist full sower,</l>
+               <l>And let a fart.</l>
+            </lg>
+            <p>Which the King laughed at ex<g ref="char:EOLhyphen"/>ceedingly; then the Cardinall would needs rime with him, &amp; thin<g ref="char:EOLhyphen"/>king thereby to have daunted him for his bold answer to the King, be<g ref="char:EOLhyphen"/>gan, Come <hi>William,</hi> what say you to this Rime?</p>
+            <lg>
+               <l>A rod in the schoole</l>
+               <l>And a whip for a foole,</l>
+               <l>Is alwayes in season.</l>
+            </lg>
+            <p>Then answered <hi>Will Summers,</hi>
+            </p>
+            <lg>
+               <l>A Halter and a Rope</l>
+               <l>For him that would be Pope</l>
+               <l>Against all right and reason.</l>
+            </lg>
+            <p>Which the Cardinall hearing, bit his lip; for at that time there was some speech that the Cardinall did aime at it. These homely Iests
+<pb facs="tcp:176908:17"/> might passe in those dayes, though the refinednesse of these our times will neither admit such coursnesse of language, nor such boldnesse with Princes.</p>
+            <p>Nay, in those times, as they were bold in their language, so oft<g ref="char:EOLhyphen"/>times they would not make it a thing squeamish, to bee somewhat prophane: for the Proverb being then on foot, <hi>That there were three severall Trades that could never be free from Felony, namely, Weavers, Mil<g ref="char:EOLhyphen"/>lers, and Taylers.</hi> The King asked his foole what he thought of M<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers? Of M<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers saith he? I will tell your Maiesty; I hold them to bee a kinne to the blessed Virgin: Your reason saith the King? marry answered he, I shall tell you; she above all colours pre<g ref="char:EOLhyphen"/>ferreth white vesture, as betoken<g ref="char:EOLhyphen"/>ing purity, sincerity, and chastity; and in that they also strive to imi<g ref="char:EOLhyphen"/>tate her; for you shall never meete a Miller but in a white and mealy
+<pb facs="tcp:176908:18"/> habite: next, as she was before the birth a Virgin, in the birth a Vir<g ref="char:EOLhyphen"/>gin, and after the birth a Virgin: so a Miller is before his Mill a Theefe, in his Mill a Theefe, and behind his Mill a Theefe: but these words, though they be privi<g ref="char:EOLhyphen"/>ledg'd for fooles, are not authen<g ref="char:EOLhyphen"/>ticall for wise men.</p>
+            <p>It was a custome in those dayes that no man should be admitted in<g ref="char:EOLhyphen"/>to the Kings guard, but such as were tall statur'd, well featur'd, strong men, and valiant. Now it happened, that some places being then empty, to fill up the number, divers Noble-men had preferr'd some of their servants, and pre<g ref="char:EOLhyphen"/>sented them unto the King; (<hi>Will Summers</hi> then standing by) saith one of them, See my Liege, this man is no coward, for he hath re<g ref="char:EOLhyphen"/>ceived this hurt in his face: And saith another, and this my man hath had such and such cuts in the legge: saith the third, and mine
+<pb facs="tcp:176908:18"/> hath had so many dangerous wounds in the body, and withall caused them to shew their skarres which were apparant; which the Prince observing, and as the Proverb goeth, <hi>King <hi>Harry</hi> lov'd a man,</hi> hee was willing to receive them into the band; but before hee would entertaine them, he asked <hi>Will Summers</hi> what he thought of these stout and tall fellows? who answered him againe, that hée thought them not fit for his service: the King demanding his reason, marry saith he, I sée these men have indéed béene hurt, and mangled, and have their mends in their owne hands: but I would have thée to send out, and make inquiry for the men that gave them these wounds; for in my minde, they of the two (if thou shouldst stand in néed of them) are the fittest for thy service.</p>
+            <p>One asking <hi>Will Summers</hi> why the best and richest Benefices were
+<pb facs="tcp:176908:19"/> for the most part, conferr'd on the most unworthy and unlearned men? he made answer, Doe not you observe dayly, that upon the most weake and poorest Iades are layd the greatest burdens, and up<g ref="char:EOLhyphen"/>on the best and swiftest horses pla<g ref="char:EOLhyphen"/>ced the youngest and lightest Gal<g ref="char:EOLhyphen"/>lants?</p>
+            <p>Vpon a time passing by a very hard favour'd wench he said to one in his company, And is not that a very dainty fine creature? which the Lasse over-hearing and know<g ref="char:EOLhyphen"/>ing she was flouted, made answer againe, Thou maist walke farre enough before thou shalt heare any one say so much by thee. Nay re<g ref="char:EOLhyphen"/>ply'd he, that I neede not, if any man be disposed to tell as lewd a lye of me, as I did of thée.</p>
+            <p>
+               <hi>Will Summers</hi> comming into a Chappell of the Fryar <hi>Minors,</hi> hée saw Saint <hi>Francis</hi> painted in a ve<g ref="char:EOLhyphen"/>ry faire table, sitting in the midst of foure grave and reverend Do<g ref="char:EOLhyphen"/>ctors;
+<pb facs="tcp:176908:19"/> who presently call'd to a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryar, and demanded of him what <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aint <hi>Francis,</hi> being a lay-man, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Scholler at all, made in that <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ace, disputing amongst the Do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ors? The Fryar replyed unto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im againe, why I tell thee thou <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnorant fellow, that this Saint <hi>Francis</hi> was the greatest Doctor amongst them all: who answered, Me thinks that carrieth with it very small appearance, of truth, that the Fryar <hi>Minors,</hi> (which is the least Fryars, or the Fryars of the lesse order) should have the greatest Scholler or Doctor to be their Founder or Patron.</p>
+            <p>His custome was (by the Kings command) to keepe a Catalogue or a Register of all their names in or about the Court, who had com<g ref="char:EOLhyphen"/>mitted any notorious folly, or ridi<g ref="char:EOLhyphen"/>culous act worthy iust taxation or laughter, and once in a quarter of a yéere to bring unto the King a particular, or list of their names:
+<pb facs="tcp:176908:20"/> It so happened, that a traveller and stranger comming from beyond y<seg rend="sup">e</seg> Seas, tickled the King in the head with divers Spanish Iennets, of which, if his Maiesty would furnish him with a certaine sum of money, he would not onely furnish his sta<g ref="char:EOLhyphen"/>bles, but his whole Countrie (in short time) with their broode; and prevailed so far, that he had a 1000 pound paid him out of the Exche<g ref="char:EOLhyphen"/>quer to that purpose, and so tooke his leave of the King: Some two Moneths after, being to deliver up his Register, his Maiesty found his owne name lysted amongst the rest of the fooles: at which being on the suddaine very angry, and as<g ref="char:EOLhyphen"/>ked him why hee durst be so saw<g ref="char:EOLhyphen"/>cy, to ranke him in the num<g ref="char:EOLhyphen"/>ber of the others ridiculous for their follie? Who answered him againe: Marry <hi>Harry</hi> I doe it not without good cause, (replide hee) for here came a stranger (no man knowes from whence) into thy
+<pb facs="tcp:176908:20"/> Court, and hath made thee beleeve <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee will bring thee horses over; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut when canst thou tell? Now, wast not thou a very foole to trust a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raveller, who was neither known <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto thee, nor unto any of thy Sub<g ref="char:EOLhyphen"/>iects with so much money? to whom the King replyed; Ey, but what wilt thou say, if hee come o<g ref="char:EOLhyphen"/>ver iust at the day appoynted, and bring me over so many Iennets as he promised? What will I say? (saith <hi>Will</hi>) marry Ile tell thee <hi>Harry;</hi> when I see this done, I will make no more adoe, but faire and flatly quite race out thy name, and put in his; and then hee, and not thee, shall stand a foole upon record.</p>
+            <p>In King <hi>Henry</hi> the eights dayes, there was great poasting to and fro for <hi>Roome:</hi> for the Cardinall <hi>Woolsey</hi> had much businesse with the Pope: Now the Cardinall had a naturall foole to make him mer<g ref="char:EOLhyphen"/>ry, which was called <hi>Patch;</hi> which
+<pb facs="tcp:176908:21"/> Fool loved <hi>Wil Sūmers</hi> exceeding<g ref="char:EOLunhyphen"/>ly; as you may behold him, saying welcome Couz, welcome Couz: but
+<figure/>
+               <hi>Will Summers</hi> loved him onely for his owne ends; and being come to the Cardinals house, <hi>Patch</hi> the
+<pb facs="tcp:176908:21"/> Cardinals foole, willing to give his consen <hi>Will</hi> entertainment at his Lords house, prevailed so farre with him, as to have him to the sel<g ref="char:EOLhyphen"/>ler, which was the innermost▪ or pri<g ref="char:EOLhyphen"/>vate seller, intending to drink some Wine, and for further love and courtesie, would broach a fresh Hogs-head of Wine for his Cou<g ref="char:EOLhyphen"/>zen; and having pierc't one or two Hogs heads, nothing came out, and yet was very heavy, went to ano<g ref="char:EOLhyphen"/>ther, and so tryde halfe a score; at length <hi>Will Summers</hi> with a Hammer that lay by, strikes the head of one of the Hogs-heads out, and there appeared nothing but Gold: Now <hi>Will Summers</hi> he saith nothing, but when he came to the Court, tels the King what a Sel<g ref="char:EOLhyphen"/>ler of Wines hee had beene in at the Cardinalls; and that his seller yeelded no such Wines, or ere would: How, saies the King, have not I no such Wines in my Sel<g ref="char:EOLhyphen"/>ler? no indeed, said <hi>Will,</hi> for there
+<pb facs="tcp:176908:22"/> is nevera Hogs head in the Car<g ref="char:EOLhyphen"/>dinals seller, but is worth ten thousand pounds, and better: Mo<g ref="char:EOLhyphen"/>ther
+<figure/> of God, sayes the King, that is such Wine that I never heard of; ten thousand pounds a Hogs-head?
+<pb facs="tcp:176908:22"/> nay, rather more than lesse; Come Sirrah, saies the King, tell mee your meaning, for I know there is something else in it; tell me, or I will hang thee; then <hi>Will</hi> told the King how his couzen <hi>Patch,</hi> the Cardinals foole, brought him into his seller to drinke Wine, and broached two or three Hogs-heads, and no Wine came forth; so at length hee burst open the head of one of the Hogs-heads, and that was full of Gold, and so was the next to that, and forty more which hee saw; whereupon the King, having formerly taken a distaste at the Cardinall, present<g ref="char:EOLhyphen"/>ly sends Messengers and other of<g ref="char:EOLhyphen"/>ficers to the Cardinals seller, and there findes▪ 150 Hogs-heads of good gold▪ which was conveighed to the Exchequer, which money was welcome to the King, for at that time the King had great neede of it: Now the Cardinal hearing of this sad fortune, fell sicke at
+<pb facs="tcp:176908:23"/>
+               <hi>Asher</hi> in <hi>Surry,</hi> and makes friends to the King to pacifie him, and withall he sent <hi>Patch</hi> his foole to be his servant; which <hi>Patch</hi> hearing, fell a crying, and would by no meanes have gone from him, till the Cardinall was forced to com<g ref="char:EOLhyphen"/>mand fixe of his tallest Yeomen to to conduct him to the King, where they received him gladly: Then <hi>Will Summers</hi> shewed his new Couzen the Court, and divers o<g ref="char:EOLhyphen"/>ther offices, which pleased <hi>Patch</hi> very well; and they both giving attendance.</p>
+            <p>The King at that time having an Embassie to send to <hi>Rome,</hi> as<g ref="char:EOLhyphen"/>ked <hi>Will</hi> whether he had a minde to goe on pilgrimage to <hi>Rome,</hi> as many of his Subiects frequently did? To whom he answered, that of all the places in the World, hee had no minde to travaile thither: the King demanded his reason why? hee made answer, marry <hi>Harry</hi> because the old Proverbe is
+<pb facs="tcp:176908:23"/> newly come into my minde, and that is this; The first time after that a man hath beene at <hi>Rome,</hi> and returned from thence, hee is thought to be a knave; the second time he is proved to be a knave; but the third time he is knowne to bee both a knave and an im<g ref="char:EOLhyphen"/>poster.</p>
+            <p>Going over with the King to <hi>Bulleine,</hi> hee had compleat armour made for him, from head to foote; which is to bee seene within the Tower at <hi>London:</hi> And the wea<g ref="char:EOLhyphen"/>ther being rough and tempestuous, hee never having beene on ship<g ref="char:EOLhyphen"/>boord before, beganne to be very fearefull of the Sea, and calling for a peece of the saltest Beefe they had, beganne to eate it before the King very greedily; who asking him, why hee eate such grosse pow<g ref="char:EOLhyphen"/>dred meate with such an appetite, when there was such store of fresh victuals aboard? he made answer, O blame me not <hi>Harry</hi> to fill my
+<pb facs="tcp:176908:24"/> stomacke with so much salt meate before hand, knowing, if we be cast away, what a deale of water I have to drinke after it.</p>
+            <p>One thing I had forgot which he spake to the King at his first enter<g ref="char:EOLhyphen"/>tainment, but better inserted out of course, than altogether intermit<g ref="char:EOLhyphen"/>ted. His Maiesty after some dis<g ref="char:EOLhyphen"/>course growing into some good li<g ref="char:EOLhyphen"/>king of him, said, Fellow, wilt thou be my foole? who answered him againe, that hee had rather to bee his owne fathers still, than his: the King asking him why? he told him againe, that his Father had got him a foole for himselfe, (ha<g ref="char:EOLhyphen"/>ving but one wife) and no body could iustly claime him from him: now you having had so many wives, and still living in hope to have more, why, of some one of them, cannot you get a foole as hée did? and so you shall be sure to have a foole of your owne.</p>
+            <p>The King being in discourse at
+<pb facs="tcp:176908:24"/> Table with some of his Lords, held an argument, that of all his people in the Kingdome, whether of the Nobility, Gentry, or Cit<g ref="char:EOLhyphen"/>ty-merchants, or Tradesmen, of what faculty or condition soever, he thought the Rustick or Coun<g ref="char:EOLhyphen"/>trey-man to be the most even and plaine dealing, as doing iustly and equally alike to all: To whom <hi>Will Summers</hi> (then standing by) sayd, that he was not of his minde: Thy reason <hi>Will</hi> (sayd the King) what be they that deale more faire<g ref="char:EOLhyphen"/>ly and proportionably? marry saith he, your Bath or hot house-kéepers; for they to young and old, poore and rich, that come within their charge, give equall heate and warmth to all alike, without either difference or the least partiality.</p>
+            <p>Vpon a time Theeves breaking into his Chamber, and he percei<g ref="char:EOLhyphen"/>ving them, call'd out unto them, and said, I wonder my masters, what you hope to finde here in the
+<pb facs="tcp:176908:25"/> darke night worth your séeking, when I can see nothing in the cleare morning that is worth my kéeping.</p>
+            <p>Another time lying in a Gar<g ref="char:EOLhyphen"/>ret, hee might perceive a fellow that had raised a long ladder as high as his window, and was r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy to open the casement, and come in; when he suddenly rising, came to the window, and said, my friend, thou commest too early, thy best is to stay alittle while, for I am not asleepe yet; which the Theefe hearing, through feare let goe his hold, and had almost broke his necke downe the Ladder.</p>
+            <p>Now <hi>Patch</hi> being at Court, e<g ref="char:EOLhyphen"/>very one had a great desire to talke with him, and would oftentimes give him Wine; and hee loved sweete wine exceedingly, and it was as naturall to him as milke for a Calfe; and having dranke somewhat too much, that his sto<g ref="char:EOLhyphen"/>mack would not beare it, and fea<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:176908:25"/> to be seene, lest he should have beene whipt at the Porters lodge, the better to conceale this over<g ref="char:EOLhyphen"/>sight, runnes to a close stoole, and opening the top, puts in his head, because hee would not be heard to vomit; and when hee had eased his stoma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k, he could not get his head out of the seate: so at length he cry<g ref="char:EOLhyphen"/>ed out, and no body heard him for the present, and he not able to en<g ref="char:EOLhyphen"/>dure the smell, strived to pull his head out, which he could not doe; but often forcing himselfe, at length pulled the stoole out, which hung about his necke like a band; which some espying brought him before the King, and told the sto<g ref="char:EOLhyphen"/>ry, which made the King laugh heartily at his folly.</p>
+            <p>In the time of the progresse <hi>Will Summers</hi> being billeted in an Inne, the Host of the house tooke it as a great grace, that the Kings foole, or Iester, (whether you please to call him) would vouchsafe to
+<pb facs="tcp:176908:26"/> take up his lodging in his house, &amp; when supper was brought up into the Chamber, the Host thinking
+<figure/> to collogue with him, (because he had that time a suite at the Court, in which he thought hee might doe
+<pb facs="tcp:176908:26"/> him some pleasure) beganne to finde fault with one thing first, and then with another, saying, the Trenchers were not well scrapt, neither were the Napkings and linnen white and cleane enough for his worship, and flung them downe the staires, and said he would fetch better: whose backe was no sooner turned, but <hi>Will Summers</hi> tooke the meate that was in the platters, dishes, pots, glasses, stooles and all, and flung them downe the staires after him; at which, the Host comming up in a great rage, asked him what in the Divels name hee meant by that? no hurt I assure you mine Host, re<g ref="char:EOLhyphen"/>plyed he: but I seeing you cast downe the Napkins and the tren<g ref="char:EOLhyphen"/>chers before, I sent the meate and the dishes after, thinking your purpose was, wee should have supt below.</p>
+            <p>
+               <hi>Will Summers</hi> at one time being angry with his Wife, and being
+<pb facs="tcp:176908:27"/> come from Court somewhat ear<g ref="char:EOLhyphen"/>ly, and it being Summer-time, had in his house a very fine Cat, it be<g ref="char:EOLhyphen"/>ing a Sun-shine day, the Cat plaid with her shadow, and then with her taile, running round about with her taile in her mouth, which <hi>Will Summers</hi> his wife seeing fell a laughing; hee presently takes the Cat and knocks out her braines; and being asked the reason why he did so, made this answer, Be<g ref="char:EOLhyphen"/>cause his wife should not learne of her.</p>
+            <p>
+               <hi>Will Summers,</hi> before hee came to <hi>London,</hi> having gained a good report, and being well-beloved a<g ref="char:EOLhyphen"/>mongst gentlemen for his merry conceits, used to come to the Towne every tuesday, it being a Market day, and divers Gentle<g ref="char:EOLhyphen"/>men meeting together that day at an Ordnary, which was constant<g ref="char:EOLhyphen"/>ly kept there; <hi>Will Summers</hi> com<g ref="char:EOLhyphen"/>ming in, and hearing that the Ho<g ref="char:EOLhyphen"/>stesse of the house had a Kins-wo<g ref="char:EOLhyphen"/>man,
+<pb facs="tcp:176908:27"/> which was held for a very witty lasse, and she likewise ha<g ref="char:EOLhyphen"/>ving a good opinion of her owne Mother wit; for her tongue was like a clocke, alwaies wagging, and she hearing that <hi>Will Summers</hi> was such a notable witty con<g ref="char:EOLhyphen"/>ceited fellow, tooke time and op<g ref="char:EOLhyphen"/>portunity to let him understand, that she had as much in her head as ever was in her Grand fathers; yet in some things shee differed from the women in those dayes, for their naturall complexion was their beauty: now this Butterfly, what she wanted by Nature shee doth replenish by Art, as her boxes of her white and red daily can te<g ref="char:EOLhyphen"/>stifie. But to come to the purpose, <hi>Will Summers</hi> being come into the Ordinary amongst the Gentle<g ref="char:EOLhyphen"/>men, throwes by his Cote, sa<g ref="char:EOLhyphen"/>lutes the Gentlemen, and desires the Drawer to bring up a pinte of the best Charniko. Now <hi>Will Summers</hi> had a paire of hose on,
+<pb facs="tcp:176908:28"/> that for some offence durst not bee seene in that hue that they were first dy'd in, for they had chan<g ref="char:EOLhyphen"/>ged their colour very much, and in that manner, that one part see<g ref="char:EOLhyphen"/>med blew, the other greene: The wench told him, that his bree<g ref="char:EOLhyphen"/>ches being of so many colours, well suited with his condition; and for the antiquity of them, that they might not be forgotten wished him to let them bee put in print, and she would beare the charges: At which words the company laugh<g ref="char:EOLhyphen"/>ed, and ieered at <hi>Will Summers;</hi> and he being much moved in his minde, that his Hose were now called in question, and before his friends, and by a maide too, answe<g ref="char:EOLhyphen"/>red, By my faith Mistresse, said <hi>Will Summers,</hi> thy face is most damnable ill painted, How meane you, good <hi>William Winter,</hi> said shee? Marry thus, my <hi>Barthol<g ref="char:EOLhyphen"/>mew</hi> faire Baby, that if it were not for printing and painting, my
+<pb facs="tcp:176908:28"/> Arse would be forgotten, and thy face would want reperations. At which words, shee knowing her selfe guilty bit her lippe, and in a parret fury went downe the staires very hastily. The gentle<g ref="char:EOLhyphen"/>men laughed at the suddaine an<g ref="char:EOLhyphen"/>swer of <hi>Wil Summers:</hi> and now be<g ref="char:EOLhyphen"/>ing dinner-time, and the meat up<g ref="char:EOLhyphen"/>on the Table, the Gentlemen would needes have the company of this witty gentlewoman to dine with them; who being ear<g ref="char:EOLhyphen"/>nestly intreated came up, hoping ere dinner was done, to cry quit<g ref="char:EOLhyphen"/>tance with her friend <hi>William:</hi> and when they had placed her, they would needes have <hi>Will Summers</hi> sit next to her, because they did imagine they would have a fling one at another. <hi>Will Summers</hi> kindly entertaines her; and be<g ref="char:EOLhyphen"/>ing sate together, and sometime spent in eating and drinking, <hi>Will Summers</hi> having a minde to put a tricke upon her, desired
+<pb facs="tcp:176908:29"/> her to reach him the Capon that stood a little off her, and as shee rose up, and putting out her arme and body to reach the dish, <hi>Wil<g ref="char:EOLhyphen"/>liam Summers</hi> sitting next to her, yerkes out a huge fart, which made all the company in a maze, one looking upon the other, yet they knew it came that way. Peace Gentlemen, said <hi>Will Summers,</hi> and whispered her in the eare, I will say it was I: All the company fell into a huge laugh<g ref="char:EOLhyphen"/>ter, she into a fretting fuery, vowing shee should never sleepe quietly till shee was revenged of her Countrey-man <hi>Will,</hi> and so in a great chafe shee left their company.</p>
+            <p>
+               <hi>Will Summers</hi> keeping his Fa<g ref="char:EOLhyphen"/>thers sheepe in the Countrey, did use to carry a paire of Cards in his pocket, and meeting with boyes as good as himselfe, would fall to cards at the Cambrian game of Whip-her-ginny, or English one
+<pb facs="tcp:176908:29"/> and thirty; at which sport he would <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome dayes loose a sheepe or two: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or which if his father corrected <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, hee (in revenge) would <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rive the sheepe home at night o<g ref="char:EOLhyphen"/>ver a narrow bridge, where some of them falling besides the bridge, were drowned in the swift brooke. The old man, his father▪ being wea<g ref="char:EOLhyphen"/>ried with his ungracious dealing, complayned to a Iustice, thinking to afright him from doing any more the like. In briefe, before the Iustice <hi>Will Summers</hi> was brought, where (using small re<g ref="char:EOLhyphen"/>verence, and lesse manners) the Iustice said to him, Sirrah, you are a notable villaine, you play at cards, and loose your Fathers sheepe at one and thirty. <hi>Will Sum<g ref="char:EOLhyphen"/>mers</hi> replyed, that it was a lye: A lye quoth the Iustice, you saucy knave, doest thou give me the lye? No, quoth <hi>Will Summers,</hi> I gave not you the lye, but you told me the lye, for I never lost sheepe
+<pb facs="tcp:176908:30"/> at one and thirty, for when my game was one and thirty I al<g ref="char:EOLunhyphen"/>waies wonne. Indeed said the Iustice, thou sayst true: but I have another accusation against thee, which is, that you drive your fathers sheepe over a narrow bridge, where some of them are oftentimes drowned: That's a lye too quoth <hi>Will Summers,</hi> for those that goe over the Bridge are well enough, it's onely those that fall beside, which are drowned: where<g ref="char:EOLhyphen"/>to the Iustice sayd to <hi>Will Sum<g ref="char:EOLhyphen"/>mers</hi> father, Old man, thou hast brought in two false accusations a<g ref="char:EOLhyphen"/>gainst thy sonne, for he never lost sheepe at one and thirty, nor were there ever any drowned that went over the bridge.</p>
+            <p>Vpon a time <hi>Will Summers</hi> see<g ref="char:EOLhyphen"/>ing a decayed Gentleman in a very thred-bare cloake, said to him, Sir you have a very watchfull cloake on: Why sayd the poore Gentle<g ref="char:EOLhyphen"/>man?
+<pb facs="tcp:176908:30"/> the other answered, I doe not thinke it had a good nap this seven yeeres: the Gentleman re<g ref="char:EOLhyphen"/>plyed, and truely sir me thinkes you want a nap as well as my cloake, for you talke idlely for want of sleepe.</p>
+            <p>Vpon a festivall day <hi>Will Sum<g ref="char:EOLhyphen"/>mers</hi> began to have a veine of mirth, and being in the Court<g ref="char:EOLhyphen"/>yard walking with divers Gentle<g ref="char:EOLhyphen"/>men, hee espyed a little Gentle<g ref="char:EOLhyphen"/>man, being of a very low stature, and wore a broad brim'd Hat, which hee presently tells to one of his friends, saying, if that Gen<g ref="char:EOLhyphen"/>tleman had but such another Hat at his feete; he might be served up to the Kings Table as betweene two dishes.</p>
+            <p>The King tooke great delight in <hi>Will Summers,</hi> for hee could make such anticke faces, and so change his countenance as he li<g ref="char:EOLhyphen"/>sted;
+<pb facs="tcp:176908:31"/> for when at any time the King was set at dinner, <hi>Will Summers</hi> would but put in his head and face betweene the hangings, in such a manner, that it would make the King laugh heartily, and then hee would come up to the Kings table in such a rolling and innocent posture, in holding his hands, and setting his eyes, that it is past describing, unlesse one saw them.</p>
+            <p>Infinite were the Iests and witty answers of this <hi>Will Sum<g ref="char:EOLhyphen"/>mers,</hi> which would aske a longer Relation than this Tractate well affoords, sparing the rest for a second part, if this former be by the Courteous Reader well accepted, concluding with that which hee spake upon his death<g ref="char:EOLhyphen"/>bed.</p>
+            <p>When hee lay drawing a neere unto his end, a Fryar, who was
+<pb facs="tcp:176908:31"/> his ghostly father, comming to confesse him of his sins, he began to examine what estate hee had in
+<figure/> possession, and to whom his pur<g ref="char:EOLhyphen"/>pose was to leave it? To whom he made answer, that he had a mat<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:176908:32"/> of some five hundred pound, which hee had gotten by the favour of the King, and that he meant to leave unto the Prince of the world. The covetous Fryar thinking to have perswaded him to have left it unto their covert, began to grow very angry, and said, and why doest thou not rather conferre it upon us who are mendicants, and needy? To whom hee againe re<g ref="char:EOLhyphen"/>plyed, because I meane to dye in your Doctrine: for you teach us, that all the goods &amp; wealth of this earth belong to the Prince and Princes of this world, and there<g ref="char:EOLhyphen"/>fore this my Action shall be accor<g ref="char:EOLhyphen"/>ding unto your Instruction.</p>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:176908:32"/>
+            <head>An Epitaph upon the death of <hi>Wil Summers,</hi> Foole, or lester to King <hi>Henry</hi> the Eight.</head>
+            <lg>
+               <l>STay Traveller, guesse who lies here;</l>
+               <l>I tell thee, neither Lord nor Peere:</l>
+               <l>No Knight, no Gentleman of note,</l>
+               <l>That boasts him of his ancient coate,</l>
+               <l>Which Heralds curiously emblazon,</l>
+               <l>For men (well skild therein) to gaze on:</l>
+               <l>Know then, that this was no such man,</l>
+               <l>And I'le expresse him as I can.</l>
+            </lg>
+            <lg>
+               <l>He that beneath this Tomb▪ stone lies,</l>
+               <l>Some cal'd a <hi>foole,</hi> some held him <hi>wise:</hi>
+               </l>
+               <l>For which, who better proofe can bring,</l>
+               <l>Than to be favoured by a King?</l>
+               <l>And yet againe we ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mis-doubt him,</l>
+               <l>"A King hath alwaies <hi>fooles</hi> about him.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176908:33"/>
+               <l>Is he more Ideot than the rest,</l>
+               <l>Who in a guarded coat can jest?</l>
+               <l>Or can he wisedomes honour gaine,</l>
+               <l>That is all bravery, and no braine?</l>
+               <l>Sure no such thing, wit truely bred,</l>
+               <l>I'th Habite lies not, but the head.</l>
+               <l>But whether he was <hi>foole</hi> or <hi>knave,</hi>
+               </l>
+               <l>He now lies sleeping in his grave;</l>
+               <l>Who never in his life found match,</l>
+               <l>Vnlesse the Cardinals <hi>foole,</hi> cald <hi>Patch:</hi>
+               </l>
+               <l>Of whom, some Courtiers, who did see</l>
+               <l>Them two alone, might say, <hi>We three:</hi>
+               </l>
+               <l>And t' may be fear'd, it is a phraise</l>
+               <l>That may be us'd still in these daies.</l>
+               <l>Well more of him what should I say?</l>
+               <l>Both <hi>fooles</hi> and <hi>wise men</hi> turne to clay:</l>
+               <l>And this is all we have to trust,</l>
+               <l>That there's no difference in their dust.</l>
+               <l>Rest quiet then beneath this stone,</l>
+               <l>To whom late <hi>Archer</hi> was a drone.</l>
+            </lg>
+            <q>Stultorum plena sunt omnia.</q>
+         </div>
+         <div type="passages">
+            <pb facs="tcp:176908:33"/>
+            <head>Remarkable passages in King <hi>Henry</hi> the Eights time, which <hi>Will Summers</hi> tooke notice of.</head>
+            <p>ANd the first was of that stout Pirat <hi>Andrew Barton,</hi> a Scottish Gentleman; which the King hearing of, being in his pro<g ref="char:EOLhyphen"/>gresse at <hi>Leicester,</hi> and withall knowing what spoyle he had done, having robbed every Nation, and stopped the Kings streames, that no Merchant, almost, could passe without a strong Convoy: and at that time the King of <hi>Scots</hi> had Warre with the <hi>Portugals,</hi> and under that pretence, when hée tooke our English Merchants ships and goods, hee bare them in hand that they were <hi>Portugals</hi> goods; and thus he robbed at eve<g ref="char:EOLhyphen"/>ry Havens mouth. The King
+<pb facs="tcp:176908:34"/> displeased herewith, sent Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Howard,</hi> the Lord high Ad<g ref="char:EOLhyphen"/>mirall of <hi>England;</hi> the Lord <hi>Tho<g ref="char:EOLhyphen"/>mas▪ Howard,</hi> Sonne and Heire to the Earle of <hi>Surrey,</hi> and <hi>Iohn Hopton</hi> to the Sea, which made ready two ships, and being at sea, by chance of foule weather and a suddaine storme were separated: The Lord <hi>Howard</hi> lying in the <hi>Downes,</hi> and hearing that <hi>Andrew Barton</hi> was within a few leagues, and that he was making towards <hi>Scotland,</hi> having the opportunity of a good winde, hoysed his sayles, and chased him so hard, that hée o<g ref="char:EOLhyphen"/>vertooke him: so there was a sore and terrible fight betwixt them. <hi>Andrew Barton</hi> continually blew his whistle to encourage his men, but at length the Lord <hi>Howard</hi> and his company did so valiantly and so fiercely continue, that by cleare strength they entred the maine decke: The <hi>Scots</hi> fought very valiantly upon the hatches;
+<pb facs="tcp:176908:34"/> but in the conclusion <hi>Andrew Bar<g ref="char:EOLhyphen"/>ton</hi> was taken, and so sore woun<g ref="char:EOLhyphen"/>ded by the splinters of the ship, which a bullet made, that he dy<g ref="char:EOLhyphen"/>ed there in the presence of the Lord <hi>Howard,</hi> and the remnant of the <hi>Scots</hi> were taken with their ship, called the <hi>Lyon.</hi> Thus was this ship▪ and the other ship which did accompany her, brought to <hi>Blackwall</hi> the second of <hi>August, 1520.</hi> And those that were taken prisoners, were sent guarded to <hi>London,</hi> where they were kept as prisoners in the Archbishop of <hi>Yorkes</hi> Palace, now called <hi>White-Hall;</hi> and then after a while, were sent into <hi>Sco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> and there re<g ref="char:EOLhyphen"/>ceived condigne punishment as Law required.</p>
+            <p>The yeere following dyed this <hi>Thomas</hi> Lord <hi>Howard,</hi> and was honourably interred at <hi>Thatford,</hi> and then after at <hi>Fremingham,</hi> where his body rested, being <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rst imbalmed, and then wrapped in
+<pb facs="tcp:176908:35"/> Lead. Also about that time de<g ref="char:EOLhyphen"/>ceased Sir <hi>Thomas Lovell,</hi> Knight of the Garter, at his house at <hi>End<g ref="char:EOLhyphen"/>field,</hi> and was buried at <hi>Holy<g ref="char:EOLhyphen"/>well,</hi> an house of Nunnes besides <hi>London;</hi> now made an Hospitall for diseased people; unto which House he had beene a great Bene<g ref="char:EOLhyphen"/>factor, not onely in building of a beautifull Chappell, wherein his body was interred, but in ma<g ref="char:EOLhyphen"/>ny other goodly buildings, and en<g ref="char:EOLhyphen"/>dowed the same with Lands.</p>
+            <p>The first of <hi>September</hi> the yéere following, there was an Embas<g ref="char:EOLhyphen"/>sador sent from <hi>Clement</hi> the se<g ref="char:EOLhyphen"/>venth, being then Pope, which brought with him divers presents but amongst them this was one which was taken notice of, and generally commended of all men which beheld it, and that was a Rose of pure Gold presented to the King at his Mannor at <hi>Wind<g ref="char:EOLhyphen"/>sor.</hi> The tree whereon the Rose did séeme to grow, was also for<g ref="char:EOLhyphen"/>ged
+<pb facs="tcp:176908:35"/> of fine Gold, and wrought with branches, leaves, and flow<g ref="char:EOLhyphen"/>ers inamiled, which resembled naturall Roses set in a pot of gold, which pot had three feete, and sup<g ref="char:EOLhyphen"/>ported by three severall Anticks: And in the uppermost and largest Rose was a faire <hi>Saphyre</hi> loope pierced, the bignesse of an Acorne; the Trée it selfe was of height halfe an English yard, and in bredth a foote.</p>
+            <p>In this yeere 1527, King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> following his Hawke, lept o<g ref="char:EOLhyphen"/>ver a ditch besides the hedging, with a pole, which pole when he was upon his rise brake in sunder, so that if one of his Foot-men had not lept into the water, and lift up his head which was fast in the mud, hee had there surely beene drowned, or stifled.</p>
+            <p>Like wise in the same yeere, and in the Moneths of <hi>November, De<g ref="char:EOLhyphen"/>cember,</hi> and <hi>January</hi> fell such raine, that thereof ensued great floods,
+<pb facs="tcp:176908:36"/> which destroyed Corne-fields, pa<g ref="char:EOLhyphen"/>stures, and aboundance of cattell, and other beasts; and then was it dry till the twelfth of <hi>Aprill,</hi> and from that time it rained every day and night till the third of <hi>Iune</hi> the yeere following, whereby corne and other graine failed much in the ensuing yeere; that it was sold at sixteene stillings the bushell; such scarcity of bread was in <hi>London,</hi> and in all <hi>England,</hi> that many dyed for want thereof: The King hearing of this great want, sent of goodnesse to the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> of his owne provisi<g ref="char:EOLhyphen"/>on 600 Quarters, or else for one weeke there had been little bread. The Carts that were appointed for bringing in of this corne from <hi>Stratford</hi> towards <hi>London,</hi> were met by the vulgar sort at <hi>Mile-end,</hi> to that the Lord Maior and She<g ref="char:EOLhyphen"/>riffes were forced to goe and rescue the same Carts, and provision, and to see them brought to the
+<pb facs="tcp:176908:36"/> Markets appointed, and there to be sold, and equally distributed according to every ones necessity: And shortly after the Merchants of y<seg rend="sup">e</seg> Still yard in Thames street, brought and procured from <hi>Dansk</hi> such store of Wheate and Rye, that the same was sold better cheape in <hi>London,</hi> than in any o<g ref="char:EOLhyphen"/>ther parts of the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> besides.</p>
+            <p>In the yeere 1530. <hi>William Tindall</hi> having by good assistance and command translated the New Testament into English, and caused the same to bee printed be<g ref="char:EOLhyphen"/>yond the Sea, and by his Ne<g ref="char:EOLhyphen"/>phew <hi>Peter Okes,</hi> then a Mer<g ref="char:EOLhyphen"/>chants Factor being there resi<g ref="char:EOLhyphen"/>dent, many of them were con<g ref="char:EOLhyphen"/>veyed into <hi>England</hi> among other Merchants goods, and there were made sale of as good merchandize; for many Protestans desired to have them, but this Translation was forbidden by the King to be u<g ref="char:EOLhyphen"/>sed by his subiects.</p>
+            <pb facs="tcp:176908:37"/>
+            <p>In the yeare 1533, and in the moneth of <hi>April,</hi> one <hi>Richard Rosse,</hi> a Cooke, was boyled in a Caldron of Water in the middle of West <hi>Smithfield,</hi> for poysoning of divers persons, to the number of sixteene, at the Bishop of <hi>Ro<g ref="char:EOLhyphen"/>chesters</hi> place: amongst the which <hi>Benet Curwin,</hi> a gentlem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of the Bishops was one; and the said Cooke being full of malice and envy, intended to have poysoned the Bishop himselfe; but he eate no broth that day, whereby he e<g ref="char:EOLhyphen"/>scaped: many of the poore people which stood at the Bishops gate for reliefe, eate of these pottage, &amp; many of them dyed the same day.</p>
+            <p>In this yeare, King <hi>Henry</hi> took into his hands the Hospitall of St. <hi>Iames,</hi> neare unto Charing-crosse, and all the meadowes be<g ref="char:EOLhyphen"/>longing to the same, compounding with the Sisters of that house; and they to have pensions during
+<pb facs="tcp:176908:37"/> their lives; and then builded in the place of the said Hospitall a good<g ref="char:EOLhyphen"/>ly mansion, retaining still the name of St. <hi>James:</hi> he also inclo<g ref="char:EOLhyphen"/>sed a parke, with a wall of bricke, now indifferently serving to the said mansion, as also to his Palace of White-hall.</p>
+            <p>In the yeare following it was enacted by good advise and autho<g ref="char:EOLhyphen"/>rity, that all Butchers whatsoe<g ref="char:EOLhyphen"/>ver, should sell their beefe and mutton by weight: Beefe for a halfe penny the pound, and Mut<g ref="char:EOLhyphen"/>ton for three farthings; which be<g ref="char:EOLhyphen"/>ing devised for the great commo<g ref="char:EOLhyphen"/>dity of the Realme (as it was thought) hath proved for other<g ref="char:EOLhyphen"/>wise: for at that time fat Oxen were sold for sixe and twenty shillings and eight pence the peece; fat Weathers for three shillings and foure pence the peece; fat Calves for the like value; and a fat Lamb for twelve-pence.</p>
+            <pb facs="tcp:176908:38"/>
+            <p>The Butchers of <hi>London</hi> sold penny▪ peeces of Beefe for the re<g ref="char:EOLhyphen"/>liefe of the poore, every peece weighed two pound and a halfe; sometimes thrée pound for a pen<g ref="char:EOLhyphen"/>ny; and thirteene, and sometime fourteene of these peeces for twelve pence: Mutton eight pence the quarter, and an hun<g ref="char:EOLhyphen"/>dred weight of Beefe for foure shillings and eight pence▪ what price it hath growne to since, and beares now, I need not set down: At this time also, and not before, were forraine butchers permitted to sell their flesh in <hi>Leaden-hall</hi> Market in <hi>London.</hi>
+            </p>
+            <p>In this yeere was Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> borne at <hi>Greenewich,</hi> on the seventh day of <hi>September,</hi> being Sunday; and was Christened on the Wednesday following in a most stately manner: the King caused a Font of Silver to be made of purpose for her Christ<g ref="char:EOLhyphen"/>ning▪</p>
+            <pb facs="tcp:176908:38"/>
+            <p>About the yeere following, in the sixteenth day of <hi>August,</hi> the Kings stables at <hi>Charing-crosse</hi> were by a negligent servant set on fire by a Candle: of old time it was called the Mewce, for that the Hawkes were there mewed, and kept; wherein were burned many great houses, and great store of Hay and Oates.</p>
+            <p>The twentieth of <hi>March</hi> fol<g ref="char:EOLhyphen"/>lowing, a Parliament being as<g ref="char:EOLhyphen"/>sembled, <hi>George Feres</hi> Burgesse for the Towne of <hi>Plimmouth</hi> was arrested in <hi>London</hi> upon an Exe<g ref="char:EOLhyphen"/>cution; which the Lower house of Parliament hearing of, sent forth with the Seriant at Armes to the Counter, then being in Bred-streete to fetch him out but the Clerkes and other Officers of the Shrieves▪ would not deli<g ref="char:EOLhyphen"/>ver him, till the Shrieves came themselves, who after satisfaction given delivered him: howbeit, this matter was so taken in the
+<pb facs="tcp:176908:39"/> Common-house, that y<seg rend="sup">e</seg> Shrieves, Clerkes, and five of their Offi<g ref="char:EOLhyphen"/>cers, with the party plaintiffe, were sent to the Tower, and were afterward delivered by the spea<g ref="char:EOLhyphen"/>ker and common-house, and with<g ref="char:EOLhyphen"/>all had a great checke; the Shrieves were delivered from all charges, except twenty pounds for their fees, and the losse of their upper garment, which is the gentleman Porters fees.</p>
+            <p>The third of <hi>August,</hi> at <hi>Middle<g ref="char:EOLhyphen"/>ton,</hi> abount eleven miles from <hi>Oxford,</hi> a woman brought forth a child, which had two perfect bo<g ref="char:EOLhyphen"/>dies, from the Navill upwards, &amp; were so ioyned together at the na<g ref="char:EOLhyphen"/>vill, that when they were laid in length, the one head and body was Eastward, &amp; the other West, the legges for both the bodies grew out at the midst where the bodies ioyned, &amp; had but one issue for the excrements of both bodies: they lived 18 dayes; they were of the female sex.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176908:39"/>
+         </div>
+      </body>
+   </text>
+</TEI>
